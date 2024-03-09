@@ -1,0 +1,37 @@
+
+body {
+    background-color: #cfe9ff; /* Bleu clair */
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 20px;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+.input {
+    margin-top: 20px;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 20px;
+}
+
+button {
+    background-color: #c1f0c1; /* Vert clair */
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+#btnSubmit {
+    background-color: #add8e6; /* Bleu */
+}
